@@ -1,14 +1,14 @@
 ## About Me
 
-What's up? hey\|you
+Welcome to my website! I'm originally from Westchester, New York, and I'm currently a senior at Lehigh University where I study Financial Engineering in the Integrated Business and Engineering (IBE) honors program. Following my graduation from Lehigh, I will be working for Greenhill & Co. in New York City as an investment banking analyst. 
 
-I am an awesome student at Lehigh, you should hire me!
+Some things I enjoy doing in my free time:
+ - Reading about new IPO's, stock predictions, company financial analysis
+ - Looking into space advancements with NASA, SpaceX, Blue Origin, and all the other amazing new initiatives
+ - Watching sports, specifically the Giants (NFL), Rangers (NHL), Knicks (NBA), and Mets (MLB)
+ - Strong passion towards fitness
+ - Playing strategic games with friends
 
-<!-- Upload your own photo and change the path -->
-
-<p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
-</p>
 
 ---
 
