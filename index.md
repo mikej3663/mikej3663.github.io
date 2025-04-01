@@ -24,7 +24,7 @@ You can show off your midterm analysis by moving the report components and outpu
 
 ---
 
-_**[Regression Interpretation](Regression_practice)**_
+_**[Regression Interpretation](SubFolder/Regression interpretation.ipynb)**_
 
 Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
 
