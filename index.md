@@ -21,8 +21,9 @@ In this project, I modeled how sentiment in 2022 S&P 500 10-K filings affected s
 ---
 
 <a href="https://lehigh-asset-pricing.streamlit.app/" target="_blank">
-  <strong>Lehigh Asset Pricing Dashboard</strong>
+  <b>Lehigh Asset Pricing Dashboard</b>
 </a>
+
 Myself alongside my team developed a Lehigh Asset Pricing model where we fit regressors and neural networks to predict stock returns and construct a zero-cost long-short portfolio. We ingested WRDS CRSP, OpenAP, and Fama–French factor data, selected the top 5,000 firms by net operating assets, and trained Lasso, Ridge, HistGradientBoosting, and three MLP architectures using an expanding window approach. Predictions were binned into portfolios to compute Sharpe ratios where HistGradientBoosting achieved the best, and the 3 fold Nueral Network achieved the best of the networks, while the overal best was the stacked regessor we developed.
 
 Click on the link above to see our dashboard!
