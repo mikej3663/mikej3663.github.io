@@ -22,9 +22,8 @@ In this project, I modeled how sentiment in 2022 S&P 500 10-K filings affected s
 
 _**[Regression Interpretation](SubFolder/RegressionInterpretation.ipynb)**_
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
+Myself alongside my team developed a Lehigh Asset Pricing model where we fit regressors and neural networks to predict stock returns and construct a zero-cost long-short portfolio. We ingested WRDS CRSP, OpenAP, and Fama–French factor data, selected the top 5,000 firms by net operating assets, and trained Lasso, Ridge, HistGradientBoosting, and three MLP architectures using an expanding window approach. Predictions were binned into portfolios to compute Sharpe ratios where HistGradientBoosting achieved the best, and the 3 fold Nueral Network achieved the best of the networks, while the overal best was the stacked regessor we developed.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
