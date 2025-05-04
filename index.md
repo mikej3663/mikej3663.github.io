@@ -14,11 +14,9 @@ Some things I enjoy doing in my free time:
 
 ## Portfolio
 
-<!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
+_**[Quantifying 10-K Sentiment and Stock Price Impact](midterm_summary)**_
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
-
-You can show off your midterm analysis by moving the report components and output into this file. Or...
+In this project, I modeled how sentiment in 2022 S&P 500 10-K filings affected stock returns one to four trading days after release, focusing on divestitures, lawsuits, and new product launches. I found that aggregate positive and negative sentiment scores had virtually no predictive power, whereas contextual sentiment around divestitures and lawsuits produced modest but meaningful slopes and mentions of new products consistently forecasted a negative price reaction. My regression’s R² was respectable, indicating the model captured enough variation to validate these event-specific signals despite low overall explanatory power. Overall, these results suggest that granular, event-driven sentiment measures offer more insight into market responses than aggregate sentiment alone.
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
