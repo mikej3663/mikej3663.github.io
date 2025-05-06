@@ -1,13 +1,13 @@
 title: Michael Jamesley
 logo: "/images/Headshot.jpg?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
- 
-  <br><br>
+description:
+  > # your text below (remove <br> elements if you don't need line breaks)
+
+  <br>
   <a href="https://www.linkedin.com/in/maj225/">LinkedIn</a> 
   <br>
   <a href="/pdf/Resume_Jamesley_Michael.pdf" class="btn btn--info">Resume</a>  
-  <br>
-  <a href="https://www.GitHub.com/mikej3663/">GitHub</a>  
+  <br>  
   <br>
 
 theme: jekyll-theme-minimal
