@@ -25,7 +25,10 @@ Click on the link above to see our dashboard!
 
 ---
 
+_**[Industrial and Systems Engineering Optimization Project](pdf/McDowell_Ryan_De Cerbo_Jamesley_Mock Final Project Report.pdf)**_
+Our team built an Arena simulation of SM Paints’ production facility to evaluate how various upgrades—additional shifts, tanks, and fill lines—would impact the goal of shipping 98% of orders within three working days. By running 30 replications per scenario and measuring both on-time fulfillment and upgrade cost, we found that only the addition of a quart fill line pushed the on-time rate above target, achieving 99.74% while lowering quart‐line utilization by 15.39%. A one-way ANOVA and Tukey pairwise comparisons confirmed that this upgrade was statistically superior to all others. Finally, sensitivity analyses across different order arrival rates demonstrated that the quart line recommendation remains cost-effective and robust under varying demand.
 
+---
 ## Personal Interests and Hobbies
  - Reading about new IPO's, stock predictions, company financial analysis
  - Looking into space advancements with NASA, SpaceX, Blue Origin, and all the other amazing new initiatives
